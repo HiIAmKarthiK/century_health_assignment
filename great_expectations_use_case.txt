@@ -1,0 +1,11 @@
+one way we can use it is convert the spark data frame into great expectations data frame, which will fill up the data frame with test functions which we can call on the data frame to get the results or make sure the data is how we expect it to be or to know if there are any outliers.
+
+ex: if the count is as expected
+
+uniqueness
+
+primary key is satisfied
+
+range of min and max values
+
+also store the results for further reference

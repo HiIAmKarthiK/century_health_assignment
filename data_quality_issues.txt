@@ -1,0 +1,9 @@
+1) in the patients file i can find birth year greater than the current year which cannot be true, we have to filter those.
+
+2) gender having NaN here . i have joined the provided gender dataset to satisfy the above.
+
+3) i found zip codes with zero values, so removed them as well
+
+4) some of the blanks or removed.
+
+5) date time has been converted abiding to the format to keep it in valid state.

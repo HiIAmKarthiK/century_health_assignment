@@ -1,0 +1,22 @@
+breakdown of files link
+---------------------------
+
+patients file:
+
+1) We can have a patients file which contain information of each distinct patient. This is the main file, this file has to exist for other files to exist
+
+encounter file:
+
+2) This patient has to visit an organization or a center where they will diagnose the issue of the patient(encounter) by understanding the symptoms which is yet another file, by understanding frame a condition which matches the symptom, finally suggest a medicine which could cure the condition identified. This is all figured out in the encounter, which is this point. Each encounter can have a start and end time where the encounter is dealt with.
+
+symptoms file:
+
+3) symptoms faced by the patient for a particular condition and the symptom level.
+
+conditions file:
+
+4) condition identified by knowing the symptoms of a patient
+
+medication file:
+
+5) purpose of the patient to cure himself of the particular condition, medicines prescribed for him/her

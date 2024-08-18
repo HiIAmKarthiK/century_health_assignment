@@ -1,0 +1,3 @@
+distinct patients 9566 after filtering birthdates and nulls
+
+4. What percentage of patients have all 4 symptom categories ≥ 30? 7.95
